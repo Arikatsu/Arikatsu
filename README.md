@@ -39,7 +39,7 @@ Top Langs
  </p>
 </p>
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimi898246&layout=compact&langs_count=8&card_width=445&show_icons=true&theme=dracula" align="center" alt="labgs" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arikatsu&layout=compact&langs_count=8&card_width=445&show_icons=true&theme=dracula" align="center" alt="labgs" />
 </p>
 <!--
 Github Activity
