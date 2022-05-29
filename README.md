@@ -54,3 +54,16 @@ Github Activity
 <p align="center">
  <img src="https://activity-graph.herokuapp.com/graph?username=Arikatsu&theme=rogue" align="center" alt="Github Activity" />
 </p>
+<!--
+Discord
+-->
+<p align="center">
+ <h2 align="center">
+ </h2>
+ <p align="center">
+  Discord Status
+ </p>
+</p>
+ <p align="center">
+ <img src="https://lanyard.cnrad.dev/api/593787701409611776" alt="Discord Status">
+</p>
