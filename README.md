@@ -1,8 +1,6 @@
 <!--
 pfp
 -->
-<p align="center">
- <img width="150px" src="https://cdn.discordapp.com/attachments/970054253525733386/978920698045141052/c66696f200c650ba93be7951a1e07c6b.gif" align="center" alt="Avator" />
  <h2 align="center">
    <a href="https://discords.com/bio/p/b43e069b-5741-4b68-4380-bb63e3928157">
      Scald
