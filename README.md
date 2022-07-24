@@ -2,9 +2,7 @@
 pfp
 -->
  <h2 align="center">
-   <a href="https://discords.com/bio/p/b43e069b-5741-4b68-4380-bb63e3928157">
-     Scald
-   </a>
+   Scald
  </h2>
  <p align="center">
   Random 17 year old just exisitng
