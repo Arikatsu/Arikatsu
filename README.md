@@ -5,10 +5,11 @@ pfp
    Scald
  </h2>
  <p align="center">
-  Random 17 year old just exisitng
+  Random 18 year old just exisitng
  </p>
  <p align="center">
-  currently having skill issue
+  A full stack web developer who also tends to write a lot of Discord bot's for some reason.
+  Currently learning reverse engineering. 
  </p>
 </p>
 <!--
