@@ -8,7 +8,7 @@ pfp
   Random 18 year old just exisitng
  </p>
  <p align="center">
-  A full stack web developer who also tends to write a lot of Discord bot's for some reason.
+  A full stack web developer who also tends to write a lot of Discord bots for some reason.
   Currently learning reverse engineering. 
  </p>
 </p>
