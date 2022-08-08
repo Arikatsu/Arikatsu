@@ -8,7 +8,7 @@ About Me
   
  - Random 18 year old just exisitng
  - A full stack web developer who also tends to write a lot of Discord bots for some reason.
- - I can wprk with various different languages
+ - I can work with various different languages
  - Currently learning reverse engineering.
  
 <div align="left">
