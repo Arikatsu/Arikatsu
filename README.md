@@ -4,7 +4,7 @@ About Me
  <h2 align="center">
    Hi! I'm Scald
  </h2>
-  <img align="right" src="https://lanyard.cnrad.dev/api/593787701409611776" alt="Discord Status">
+  <img align="right" src="https://lanyard.cnrad.dev/api/593787701409611776?idleMessage=Probably watching anime..." alt="Discord Status">
   
  - Random 18 year old just exisitng
  - A full stack web developer who also tends to write a lot of Discord bots for some reason.
