@@ -9,7 +9,7 @@ About Me
  - Random 18 year old just exisitng
  - A full stack web developer who also tends to write a lot of Discord bots for some reason.
  - I can work with various different languages
- - Currently learning reverse engineering.
+ - Decent Unity game develepor and reverse engineer
  
 <div align="left">
  <img width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
