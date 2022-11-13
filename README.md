@@ -55,7 +55,3 @@ Contact Me
  </a>
  ...in order of response time.
 </div>
-
-
-
-Why are all my good repos in differents orgs 😭
