@@ -6,7 +6,7 @@ About Me
  </h2>
   <img align="right" src="https://lanyard.cnrad.dev/api/593787701409611776" alt="Discord Status">
   
- - Random 18 year old just exisitng
+ - 18 year old university student
  - A full stack web developer who also tends to write a lot of Discord bots for some reason.
  - I can work with various different languages
  - Decent Unity game developer and reverse engineer
