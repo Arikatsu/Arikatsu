@@ -10,7 +10,7 @@ About Me
   - Currently a full stack web developer and a decent Unity Engine game developer and reverse engineer.
  
 <div align="left">
- <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,vite,nodejs,tauri,electron,mongodb,java,cpp,cs,rust,python&theme=dark&perline=8"><br>
+ <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,vite,nodejs,tauri,electron,mongodb,java,cpp,cs,rust,python&theme=dark&perline=7"><br>
  and more...
 </div>
 
