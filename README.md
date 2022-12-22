@@ -8,6 +8,7 @@ About Me
   
   - 18 year old university student pursuing Computer Science in low level system programming and web development.
   - Currently a full stack web developer and a decent Unity Engine game developer and reverse engineer.
+  - Check out more projects from my organization [here](https://github.com/seiKiMo-Inc).
  
 <div align="left">
  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,vite,nodejs,tauri,electron,mongodb,java,cpp,cs,rust,python&theme=dark&perline=7"><br>
