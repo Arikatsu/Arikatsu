@@ -39,3 +39,6 @@ Contact Me
   <img src="https://skillicons.dev/icons?i=twitter">
  </a>
 </div>
+
+
+<h4>Most repos are private tbh</h4>
