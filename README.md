@@ -21,8 +21,7 @@ Github Stats
   Github Stats:
 </h3>
 <div align="left">
- <img width="420px" src="https://github-readme-stats.vercel.app/api?username=Arikatsu&count_private=true&show_icons=true&line_height=25&show_icons=true&theme=tokyonight" alt="Stats">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arikatsu&layout=compact&langs_count=8&card_width=350&show_icons=true&theme=tokyonight" alt="labgs">
+ <img src="https://github-readme-stats.vercel.app/api?username=Arikatsu&count_private=true&show_icons=true&line_height=25&show_icons=true&theme=tokyonight" alt="Stats">
 </div>
 
 <!--
