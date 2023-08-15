@@ -6,7 +6,7 @@ About Me
  </h2>
   <img align="right" src="https://lanyard.cnrad.dev/api/593787701409611776" alt="Discord Status">
   
-  - 18 year old university student pursuing Computer Science in low level system programming and some web development.
+  - 19 year old university student pursuing Computer Science in low level system programming and some web development.
   - Check out more projects from my organization [here](https://github.com/seiKiMo-Inc).
  
 <div align="left">
