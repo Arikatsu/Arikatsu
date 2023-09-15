@@ -1,9 +1,6 @@
 <!--
 About Me
 -->
- <h2 align="center">
-   Hi! I'm Scald
- </h2>
   <img align="right" src="https://lanyard.cnrad.dev/api/593787701409611776" alt="Discord Status">
   
   - 19 year old university student pursuing Computer Science in Aritificial Intelligence and Machine Learning and Low-level Systems Development.
