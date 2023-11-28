@@ -7,7 +7,7 @@ About Me
   - Check out more projects from my organization [here](https://github.com/seiKiMo-Inc).
  
 <div align="left">
- <img src="https://skillicons.dev/icons?i=cpp,cs,rust,js,ts,html,css,react,vite,nodejs,tauri,electron,mongodb,java,python&theme=dark&perline=7"><br>
+ <img src="https://skillicons.dev/icons?i=cpp,cs,rust,js,ts,java,python,mongodb&theme=dark&perline=7"><br>
  and more...
 </div>
 
