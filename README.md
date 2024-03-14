@@ -3,7 +3,7 @@ About Me
 -->
   <img align="right" src="https://lanyard.cnrad.dev/api/593787701409611776" alt="Discord Status">
   
-  - 19 year old university student pursuing Computer Science in Aritificial Intelligence and Machine Learning and Low-level Systems Development.
+  - 19 year old university student pursuing Computer Science in Aritificial Intelligence/Machine Learning and Low-level Systems Development.
   - Check out more projects from my organization [here](https://github.com/seiKiMo-Inc).
  
 <div align="left">
