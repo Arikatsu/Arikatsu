@@ -32,7 +32,7 @@ Contact Me
  <a href="https://discord.com/users/593787701409611776">
   <img src="https://skillicons.dev/icons?i=discord">
  </a>
- <a href="https://twitter.com/Arikatsu420">
+ <a href="https://twitter.com/arikatsudesu">
   <img src="https://skillicons.dev/icons?i=twitter">
  </a>
 </div>
