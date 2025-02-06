@@ -39,4 +39,4 @@ Contact Me
 </div>
 
 
-<h2>Most repos are private tbh</h2>
+<h4>Most repos are private tbh</h4>
