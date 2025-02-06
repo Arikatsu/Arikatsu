@@ -5,6 +5,7 @@ About Me
   
   - 20 year old university student.
   - Idk I make stuff.
+  - Likes to tinker with hardware specially microcontrollers.
   - Check out more projects from my organization [here](https://github.com/seiKiMo-Inc).
  
 <div align="left">
