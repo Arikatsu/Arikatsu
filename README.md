@@ -3,7 +3,7 @@ About Me
 -->
   <img align="right" src="https://lanyard.cnrad.dev/api/593787701409611776" alt="Discord Status">
   
-  - 20 year old university student.
+  - 21 year old university student.
   - Idk I make stuff.
   - Likes to tinker with hardware specially microcontrollers.
   - Check out more projects from my organization [here](https://github.com/seiKiMo-Inc).
