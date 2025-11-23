@@ -23,20 +23,6 @@ Github Stats
  <img src="https://github-readme-stats.vercel.app/api?username=Arikatsu&count_private=true&show_icons=true&line_height=25&show_icons=true&theme=tokyonight" alt="Stats">
 </div>
 
-<!--
-Contact Me
--->
-<h3>
-  Contact Me:
-</h3>
-<div align="left">
- <a href="https://discord.com/users/593787701409611776">
-  <img src="https://skillicons.dev/icons?i=discord">
- </a>
- <a href="https://twitter.com/arikatsudesu">
-  <img src="https://skillicons.dev/icons?i=twitter">
- </a>
-</div>
 
 
 <h4>Most repos are private tbh</h4>
